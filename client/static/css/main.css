@@ -1,0 +1,108 @@
+/*-------------------------------------------------
+ =  Table of Css
+
+	1.ALL PAGES COMMON CSS STYLES
+	2.TOP MENU BAR
+	3.INNER BODY, ROOM DETAILS
+	4.RIBBEN
+	5.SERVICES
+	6.TYPHGRAPHY
+	7.EVENT
+	8.AMINITIES
+	9.MEGA MENU
+	10.BOOKING FORM AND BOOKING PAGE
+	11.BLOG PAGE
+	12.INNER BANNER
+	13.MOBILE MENU
+	14.PHOTO GALLERY
+	15.ROOMS AND RELATED ROOMS
+	16.USER REVIEWS
+	17.ROOM SHOCIAL SHARE
+	18.ALL HOTELS
+	19.REGISTER LOGIN POPUPS
+	20.MAIN DASHBOARD
+	21.HOME PAGE ONE - 1
+	22.HOTELS
+	23.DATE PICKER
+	24.PHOTO GALLERY - 1
+	25.HOME PAGE OFFER
+	26.HOME PAGE BLOG
+	27.FOOTER GALLERY AND BLOG
+	28.FOOTER
+	29.TITLE BOTTOM BORDER
+	30.ABOUT SCTION
+	31.EXTRA SPACES
+	32.CONTACT PAGE
+	33.DASHBOARD PROFILE
+	34.ROOM AND HOTEL DETAILS
+	35.USER REVIEWS
+	36.STAR RATING
+	37.ROOM DETAILS BLOCK COLOR
+
+-------------------------------------------------*/
+
+/*-------------------------------------------------*/
+/* =  All Pages Common CSS Styles
+/*-------------------------------------------------*/
+*,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+a {
+  margin: 0;
+  padding: 0;
+}
+body {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 300;
+	font-size: 15px;
+	line-height: 1.5;
+	color: #dedede;
+}
+a {
+	color: #181818;
+	-webkit-transition: 0.25s;
+	transition: 0.25s;
+}
+button,
+a:hover,
+a:active,
+a:focus {
+	color: #8e8e93;
+	text-decoration: none;
+	outline: 0 !important;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #dedede;
+	font-family: "Roboto", sans-serif;
+	font-weight: normal !important;
+}
+pre {
+	padding: 25px;
+	background-color: #FFF;
+	border-color: #EAEAEA;
+
+}
+p {
+	margin-bottom: 20px;
+	line-height: 1.6;
+}
+img {
+	max-width: 100%;
+	height: auto;
+}
+i {
+	display: inline-block;
+}
+/*-------------------------------------------------*/
+/* =  Element Size
+/*-------------------------------------------------*/
